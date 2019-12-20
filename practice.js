@@ -19,6 +19,10 @@ var arr = [10,20,30];
 
 //Code Here
 
+function first (arr) {
+  return[0]
+}
+
 
 
 ////////// PROBLEM 2 //////////
